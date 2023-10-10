@@ -1,0 +1,145 @@
+/* header */
+
+.header {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border-bottom: solid 1px rgb(193, 193, 193);
+    z-index: 99;
+}
+
+/* left-section */
+
+.left-section {
+    display: flex;
+    align-items: center;
+}
+
+.hamburger-menu {
+    height: 24px;
+    margin-left: 24px;
+    margin-right: 24px;
+    cursor: pointer;
+}
+
+.youtube-logo {
+    height: 20px;
+    cursor: pointer;
+}
+
+/* middle-section */
+
+.middle-section {
+    flex: 1;
+    margin-left: 70px;
+    margin-right: 35px;
+    max-width: 600px;
+    display: flex;
+    align-items: center;
+}
+
+.search-bar {
+    width: 0;
+    flex: 1;
+    height: 36px;
+    padding-left: 12px;
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(193, 193, 193);
+    border-radius: 2px;
+    box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.search-bar ::placeholder {
+    font-family: Roboto, Arial, serif;
+    font-size: 16px;
+}
+
+.search-button {
+    height: 40px;
+    width: 60px;
+    background-color: rgb(240, 240, 240);
+    border: solid 1px rgb(193, 193, 193);
+    margin-left: -1px;
+    border-radius: 2px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.search-icon {
+    height: 25px;
+    margin-top: 4px;
+}
+
+.voice-search-button {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(244, 244, 244);
+}
+
+.voice-search-button:hover {
+    background-color: rgb(230, 230, 230);
+}
+
+.voice-search-icon {
+    height: 24px;
+    margin-top: 4px;
+}
+
+/* right-section */
+
+.right-section {
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 24px;
+    flex-shrink: 0;
+}
+
+.upload-icon {
+    height: 24px;
+    cursor: pointer;
+}
+
+.youtube-apps-icon {
+    height: 24px;
+    cursor: pointer;
+}
+
+.notifications-icon-container {
+    height: 24px;
+    position: relative;
+}
+
+.notifications-count {
+    font-family: Roboto, Arial, serif;
+    background-color: #d10000;
+    padding: 2px 5px 2px 5px;
+    font-size: 11px;
+    border-radius: 10px;
+    color: white;
+    position: absolute;
+    top: -2px;
+    right: -5px;
+}
+
+.notifications-icon {
+    height: 24px;
+    cursor: pointer;
+}
+
+.channel-me-icon {
+    height: 32px;
+    border-radius: 16px;
+    cursor: pointer;
+}
