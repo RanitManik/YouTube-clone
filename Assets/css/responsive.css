@@ -34,11 +34,11 @@
     }
 
     .upload-icon {
-        opacity: 0;
+        display: none;
     }
 
     .youtube-apps-icon {
-        opacity: 0;
+        display: none;
     }
 
     body {
@@ -47,5 +47,16 @@
 
     .sidebar {
         display: none;
+    }
+
+    .channel-me-icon {
+        margin-left: 0;
+    }
+
+    .right-section-buttons {
+        pointer-events: none;
+    }
+    .video-author {
+        pointer-events: none;
     }
 }

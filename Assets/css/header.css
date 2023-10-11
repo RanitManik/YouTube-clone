@@ -148,7 +148,7 @@
     margin-left: 25px;
 }
 
-.left-section-buttons {
+.right-section-buttons {
     height: 40px;
     width: 40px;
     border-radius: 20px;
@@ -158,6 +158,6 @@
     padding: 0;
 }
 
-.left-section-buttons:hover {
+.right-section-buttons:hover {
     background-color: rgb(230, 230, 230);
 }
