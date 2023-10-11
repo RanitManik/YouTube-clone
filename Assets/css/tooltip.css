@@ -38,7 +38,7 @@
 [chanel-title]:after {
     content: attr(chanel-title);
     position: absolute;
-    top: -60px;
+    top: -65px;
     padding: 10px 8px 10px 8px;
     color: white;
     background-color: grey;
@@ -55,5 +55,4 @@
     position: relative;
     display: flex;
     align-items: center;
-
 }
