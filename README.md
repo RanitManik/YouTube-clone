@@ -81,6 +81,8 @@ _To get started with this project, follow these steps :_
 
 - I would like to express gratitude to the YouTube team for setting the gold standard in video streaming platforms. This project is a tribute to their exceptional work.
 
+- I would like to also thank [SuperSimpleDev YouTube channel](https://youtube.com/@SuperSimpleDev?si=GPyXvjWfV9lPL_4z) from which i learned HTML and CSS
+
 - Special thanks to the open-source community for providing valuable resources and inspiration.
 
 - Thank you for joining me on this journey to recreate the YouTube experience!
