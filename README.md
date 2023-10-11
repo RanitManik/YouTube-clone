@@ -11,9 +11,9 @@
   <br>
 <a href="https://ranitmanik.github.io/YouTube-clone/">View Live Demo</a>
 ·
-<a href=".github/ISSUE/bug-report.md">Report Bug</a>
+<a href="https://ranitmanik.github.io/YouTube-clone/">Report Bug</a>
 ·
-<a href=".github/ISSUE/feature-request.md">Request Feature</a>
+<a href="https://ranitmanik.github.io/YouTube-clone/">Request Feature</a>
   </p>
 </div>
 <br>
