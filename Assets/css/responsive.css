@@ -49,4 +49,8 @@
         display: none;
     }
 
+    .channel-me-icon {
+        margin-left: 0;
+    }
+
 }
