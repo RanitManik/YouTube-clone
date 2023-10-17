@@ -33,6 +33,17 @@ Feel free to explore and contribute to enhance the project further!
 
 ---
 
+## Technologies Utilized
+
+![icons8-html-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/c594a0ea-6814-49d5-be42-42ed554d6914)
+![icons8-css-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/8e945635-63f1-4770-acba-ff21584f1b05)
+
+- HTML5
+- CSS3
+  
+
+---
+
 ## Getting Started
 
 _To get started with this project, follow these steps :_
