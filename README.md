@@ -20,7 +20,6 @@
 
 ![main](https://github.com/RanitManik/YouTube-clone/assets/138437760/04041585-7d3f-4b4d-b8ee-5d78ca766ba6)
 
----
 
 ## About This Project
 
@@ -31,7 +30,6 @@ Whether you're a video enthusiast or a developer looking to explore front-end de
 
 Feel free to explore and contribute to enhance the project further!
 
----
 
 ## Technologies Utilized
 
@@ -41,9 +39,6 @@ Feel free to explore and contribute to enhance the project further!
 - HTML5
 - CSS3
   
-
----
-
 ## Getting Started
 
 _To get started with this project, follow these steps :_
@@ -76,15 +71,18 @@ _To get started with this project, follow these steps :_
 
 <!-- CONTACT -->
 
----
+## Connect
 
-## Contact
+Connect with me through various portals:
 
-- Name - [Ranit Manik](https://github.com/RanitManik)
-- Email - ranitmanikofficial@outlook.com
-- Project Link - [https://github.com/RanitManik/YouTube-clone](https://github.com/RanitManik/YouTube-clone)
-
----
+- [Email](mailto:ranitmanik.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ranit-manik/)
+- [GitHub](https://github.com/RanitManik)
+- [Instagram](https://www.instagram.com/ranit_manik_/)
+- [Facebook](https://www.facebook.com/RanitKumarManik/)
+- [Twitter](https://twitter.com/RANIT_MANIK)
+- [Codepen](https://codepen.io/RANIT-MANIK)
+- [Replit](https://replit.com/@ranit-manik)
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -98,8 +96,3 @@ _To get started with this project, follow these steps :_
 
 - Thank you for joining me on this journey to recreate the YouTube experience!
 
----
-
-<p align="center"> if you like my work, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
-
-<p align="center"><a href="https://www.buymeacoffee.com/ranitmanik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
